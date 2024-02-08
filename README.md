@@ -1,2 +1,3 @@
 # calculator
-Programs I have made for my TI-84 Plus CE
+These are just some Python programs I have made for my TI-84 Plus CE!
+
